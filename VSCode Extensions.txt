@@ -1,0 +1,14 @@
+C#
+C# Extensions
+Nuget Package Manager
+Angular vX Snippets
+Angular Files
+Angular Language Service
+angular2-switcher
+Auto Rename Tag
+Bracket Pair Colonizer
+Debugger For Chrome
+Material Icon Theme
+Path Intellisense
+Prettier
+TSLint
